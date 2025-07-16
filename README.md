@@ -64,6 +64,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Eduooster/Eduooster/output/snake.svg" alt="Snake animation" />
-
 ###
