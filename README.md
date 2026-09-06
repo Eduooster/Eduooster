@@ -44,22 +44,10 @@ Atualmente, meus principais projetos estão concentrados em **backend com Java/S
 - Automated Testing
 - Domain Events
 
-## Featured Projects
-
-### Reservix
-
-Sistema de gerenciamento de salas e reservas desenvolvido com Java e Spring Boot.
-
-O projeto explora autenticação e autorização, regras de negócio, eventos de domínio, mensageria, comunicação em tempo real e integração com serviços externos.
-
-**Java · Spring Boot · PostgreSQL · RabbitMQ · WebSocket · JWT · Docker**
-
-### GranaFácil
-
-Aplicativo mobile de gestão financeira desenvolvido para ajudar o usuário a compreender sua situação financeira e avaliar o impacto de decisões antes de realizar um gasto.
-
-**React Native · Expo · TypeScript · Expo Router · NativeWind**
 
 ## Connect
+
+www.linkedin.com/in/eduardo-osterloh-bindo
+
 
 [LinkedIn](SEU_LINKEDIN)
