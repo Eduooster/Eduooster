@@ -47,7 +47,7 @@ Atualmente, meus principais projetos estão concentrados em **backend com Java/S
 
 ## Connect
 
-www.linkedin.com/in/eduardo-osterloh-bindo
 
 
-[LinkedIn](SEU_LINKEDIN)
+
+[LinkedIn](www.linkedin.com/in/eduardo-osterloh-bindo)
