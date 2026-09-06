@@ -1,69 +1,65 @@
-<h2 align="left">Hi 👋! My name is Eduardo</h2>
+# Eduardo
 
-###
+### Software Developer · Java & Spring Boot · React Native · TypeScript
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduooster&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduooster&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+Formado em **Análise e Desenvolvimento de Sistemas (ADS) pela FIAP**, com foco em desenvolvimento de software e construção de aplicações completas.
 
-###
+Atualmente, meus principais projetos estão concentrados em **backend com Java/Spring Boot** e **desenvolvimento web e mobile com React, Next.js e React Native**.
 
-<h3 align="left">Tecnologias  e ferramentas 🛠️</h3>
+## Tech Stack
 
-###
+### Backend
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-</div>
+- Java
+- Spring Boot
+- Spring Security
+- JPA / Hibernate
+- REST APIs
+- JWT
+- RabbitMQ
 
-###
+### Frontend & Mobile
 
-<h3 align="left">Conecte-se comigo 🔗</h3>
+- TypeScript
+- React
+- Next.js
+- React Native
+- Expo
+- Expo Router
+- Tailwind CSS / NativeWind
 
-###
+### Database & Infrastructure
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="www.linkedin.com/in/eduardo-osterloh-bindo alt="linkedin logo"  />
-</div>
+- PostgreSQL
+- Oracle
+- Docker
+- Flyway
+- GitHub Actions
 
-###
+### Practices
 
-<br clear="both">
+- Clean Architecture
+- SOLID
+- TDD
+- Automated Testing
+- Domain Events
 
+## Featured Projects
 
+### Reservix
 
-###
+Sistema de gerenciamento de salas e reservas desenvolvido com Java e Spring Boot.
+
+O projeto explora autenticação e autorização, regras de negócio, eventos de domínio, mensageria, comunicação em tempo real e integração com serviços externos.
+
+**Java · Spring Boot · PostgreSQL · RabbitMQ · WebSocket · JWT · Docker**
+
+### GranaFácil
+
+Aplicativo mobile de gestão financeira desenvolvido para ajudar o usuário a compreender sua situação financeira e avaliar o impacto de decisões antes de realizar um gasto.
+
+**React Native · Expo · TypeScript · Expo Router · NativeWind**
+
+## Connect
+
+[LinkedIn](SEU_LINKEDIN)
