@@ -49,5 +49,6 @@ Atualmente, meus principais projetos estão concentrados em **backend com Java/S
 
 
 
-
-[LinkedIn](www.linkedin.com/in/eduardo-osterloh-bindo)
+<a href="https://www.linkedin.com/in/eduardo-osterloh-bindo/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
+</a>
