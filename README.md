@@ -1,4 +1,4 @@
-# Eduardo
+# Prazer, sou o Edu!
 
 ### Software Developer · Java & Spring Boot · React Native · TypeScript
 
